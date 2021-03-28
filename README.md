@@ -20,7 +20,7 @@ Run mysql client:
 
 Enjoy !
 
-
+I've made some adjustments to suit my needs, but it's made by Jcavat.
 Github page:
 
 https://github.com/jcavat/docker-lamp
